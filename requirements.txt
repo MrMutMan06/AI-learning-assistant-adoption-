@@ -1,0 +1,18 @@
+# Core analysis stack (required by the brief)
+pandas==3.0.5
+numpy==2.5.2
+matplotlib==3.11.1
+
+# Notebooks
+jupyter==1.1.1
+ipykernel==7.3.0
+ipywidgets==8.1.9
+
+# Optional extras (earn no extra marks, but mirror the DSA_1080_Python environment)
+seaborn==0.13.2
+plotly==7.0.0
+scipy==1.18.1
+statsmodels==0.15.0
+scikit-learn==1.9.0
+openpyxl==3.1.5
+tabulate==0.10.0

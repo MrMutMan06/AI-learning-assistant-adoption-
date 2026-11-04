@@ -1,0 +1,10 @@
+# Virtual environment 
+.venv/
+
+# Python / Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Xournal++ autosaves
+*.autosave.xopp
