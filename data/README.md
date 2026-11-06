@@ -21,7 +21,6 @@
 
 ## Why this dataset fits our topic
 It records student AI use (e.g. weekly generative AI hours, paid subscriptions, perceived AI dependency) alongside academic and well-being measures such as GPA, skill retention and burnout risk level.
-It suits allow of the project requirements.
 ## Limitations
 1. **No documented collection method:** the Kaggle page has no description of how, when or where the data was collected, who the students are, or which institutions took part.
 2. **Collection period unknown:** the creator gives no dates, so we cannot state when the data was gathered.
