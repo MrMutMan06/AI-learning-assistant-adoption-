@@ -15,3 +15,6 @@
 - Frank ~ Beginner python notebook 
 - Hevel ~ Load the dataset and prove that it meets the requirements 
 - Lorine ~ Write the proposal
+
+## Roles (w2)
+- 
