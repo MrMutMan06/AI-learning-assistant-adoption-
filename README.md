@@ -17,4 +17,8 @@
 - Lorine ~ Write the proposal
 
 ## Roles (w2)
-- 
+- Lorine ~ Loading the data sets reliably with relative paths 
+- Aaron ~ Showing parts of the data and creating a data dictionary 
+- Frank ~ Checking how clean the data is 
+- Patrick ~ Creating at least two reusable functions 
+- Hevel ~ Initial report - initial observations and potential data quality issues 
