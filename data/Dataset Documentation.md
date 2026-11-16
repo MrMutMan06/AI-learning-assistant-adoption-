@@ -34,8 +34,6 @@ The data is anonymous. The creators removed the email-address question (Q42) and
 
 ## 4. Data Structure
 
-## 4. Data Structure
-
 - **Rows:** 22,963 (one per respondent)
 - **Columns:** 180 (`Q1` to `Q40o`, plus a `source` language column)
 - **Files:** `final dataset.xlsx` (data) and `questionnaire.pdf` (codebook)
