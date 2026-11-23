@@ -6,7 +6,7 @@
 - Lorine Achieng      - 674687
 - Patrick Waichigo    - 202605183
 
-## Important links 
+## Important links
 https://data.mendeley.com/datasets/nv2343nwsb/2
 
 ## Roles (W1)
@@ -16,7 +16,7 @@ https://data.mendeley.com/datasets/nv2343nwsb/2
 - Hevel ~ Load the dataset and prove that it meets the requirements 
 - Lorine ~ Write the proposal
 
-## Roles (w2)
+## Roles (W2)
 - Lorine ~ Loading the data sets reliably with relative paths 
 - Aaron ~ Showing parts of the data and creating a data dictionary 
 - Frank ~ Checking how clean the data is 
