@@ -11,8 +11,8 @@ This project uses **two survey waves** from the same global study of higher educ
 | **Collection period** | October 2023 - February 2024 | October 2024 - February 2025 |
 | **Responses** | 23,218 | 22,963 |
 | **Countries / territories** | 109 | 120 |
-| **Licence** | <verify on dataset page> | CC BY 4.0 |
-| **Date downloaded** | <add date> | <add date> |
+| **Licence** | CC BY 4.0 | CC BY 4.0 |
+| **Date downloaded** | 16th novemeber 2026 |
 
 **Combined size:** 46,181 responses (23,218 + 22,963).
 
